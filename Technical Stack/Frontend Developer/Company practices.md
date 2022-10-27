@@ -10,7 +10,7 @@ Company practices
 
 ### [aws-vault](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#aws-vault)
 
-*   [ ] You know how to use the command line to switch between users
+*   [x] You know how to use the command line to switch between users
 
 ### [Onetimesecret](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#onetimesecret)
 
