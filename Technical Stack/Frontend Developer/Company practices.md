@@ -6,7 +6,7 @@ Company practices
 
 ### [Keeper Security](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#keeper-security)
 
-*   [ ] You know how to share secret values with other employees. [:books:](https://docs.keeper.io/user-guides/)
+*   [x] You know how to share secret values with other employees. [:books:](https://docs.keeper.io/user-guides/)
 
 ### [aws-vault](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#aws-vault)
 
