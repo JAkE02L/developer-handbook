@@ -14,7 +14,7 @@ Company practices
 
 ### [Onetimesecret](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#onetimesecret)
 
-*   [ ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
+*   [x ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
 
 [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 ------------------------------------------------------------------------------
