@@ -10,11 +10,11 @@ Company practices
 
 ### [aws-vault](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#aws-vault)
 
-*   [x] You know how to use the command line to switch between users
+*   [ ] You know how to use the command line to switch between users
 
 ### [Onetimesecret](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#onetimesecret)
 
-*   [x ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
+*   [ ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
 
 [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 ------------------------------------------------------------------------------
