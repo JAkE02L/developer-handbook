@@ -14,14 +14,14 @@ Company practices
 
 #### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
 
-*   [ ] You know how to create and reference issues
+*   [x] You know how to create and reference issues
 *   [ ] You know how to verify when a build check failed
 
 ### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
 
 #### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
 
-*   [x] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
 *   [ ] You know how to create groups and channels
 
 #### [Small Improvements](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#small-improvements)
