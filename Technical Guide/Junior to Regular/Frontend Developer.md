@@ -56,7 +56,7 @@ Application state management
 
 ### [Redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux)
 
-*   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
+*   [x] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 
 #### [react-redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#react-redux)
 
